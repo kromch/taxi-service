@@ -12,7 +12,7 @@ Was used Java Servlets technic and SQL development stack.
 - Authentication
 
 # Getting Started
-- Clone this remote repository to your local repository : git clone https://github.com/kromch/taxi-service.git
+- Clone this remote repository to your local repository : `git clone https://github.com/kromch/taxi-service.git`
 - Run the SQL script located in src/main/resources/init_db.sql to initialize the database
 - Build the project using Maven: mvn clean install
 - Deploy the WAR file to a servlet container such as Tomcat or Jetty
