@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/kromch/taxi-service/master/TAXI.jpg
+![alt text](https://raw.githubusercontent.com/kromch/taxi-service/master/taxi-service.jpg
 # TAXI SERVICE
 
 This project is a blueprint for future development and deploying as Taxi Service. 
