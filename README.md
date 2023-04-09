@@ -1,5 +1,5 @@
-![alt text](https://raw.githubusercontent.com/kromch/taxi-service/master/taxi-service.jpg
 # TAXI SERVICE
+![alt text](https://raw.githubusercontent.com/kromch/taxi-service/master/taxi-service.jpg
 
 This project is a blueprint for future development and deploying as Taxi Service. 
 Was used Java Servlets program model technic and SQL development stack.
